@@ -1,9 +1,11 @@
-### Hi there 👋
+### Olá 👋
+Meu nome é Ronildo, sou graduanda em Ciência da Computação pela PUCMINAS.
 
+- 🔭 C, C++, C# ...
+- 🌱 A procura de estágios e experiência profissional.
+- 👯 A procura de colaborar em pequenos projetos.
+- 📫 Como me contatar: email: ronildo.goncalves13@gmail.com
 <!--
-**Ronic666/Ronic666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
